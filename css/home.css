@@ -21,7 +21,7 @@ header {
 div.container {
     width: 85%;
     margin: auto;
-    /* background-color: aqua; */
+   
 }
 
 nav {
@@ -71,8 +71,6 @@ div.menue ul li button {
     border-radius: 24px;
     width: 128px;
     height: 40px;
-    /* padding-left: 0px; */
-
 }
 
 ul li button a {
@@ -81,7 +79,7 @@ ul li button a {
     line-height: 24px;
     text-align: center;
 }
-
+/* end header styles */
 /* start section styles */
 section {
     display: grid;
@@ -184,7 +182,7 @@ div.logos {
 
 
 /* End logo styles */
-/* start Services div styles */
+/* start Services styles */
 div.services {
     margin-top: 8%;
     width: 100%;
@@ -205,7 +203,6 @@ div.services p.head {
     width: 70%;
     margin: auto;
     text-align: center;
-    /* display: block; */
     margin-top: 15px;
 }
 
@@ -263,8 +260,8 @@ div.explore-icon {
     line-height: 45px;
 }
 
-/* End Services div styles */
-/* Start article first style */
+/* End Services styles */
+/* Start first benefit style */
 article.first-benefit {
     display: flex;
     margin-top: 18%;
@@ -321,8 +318,8 @@ div.statistic1 img {
     height: 100%;
 }
 
-/* End article first style */
-/* Start article second */
+/* End first benefit style */
+/* Start second benefit style */
 article.second-benefit {
     display: flex;
     margin-top: 15%;
@@ -402,8 +399,8 @@ div.statistic2 img {
     height: 100%;
 }
 
-/* end article second */
-/* start templates article  */
+/* end second benefit style */
+/* start templates style */
 
 article.templates {
     background-color: var(--primary-color);
@@ -527,7 +524,7 @@ div.person-info span {
     line-height: 20px;
 }
 
-/* end templates article */
+/* end templates style */
 /* start third-benefit article */
 article.third-benefit {
     margin-top: 10%;
@@ -576,8 +573,8 @@ div.questions select option {
     color: #000000;
 }
 
-/* end third-benefir article */
-/* start blog-section section style*/
+/* end third-benefir style*/
+/* start blog-section style*/
 
 div.blog-section {
     margin-top: 8%;
@@ -735,7 +732,7 @@ div.container2 button.start {
 }
 
 /* end about-client */
-/* satrt footer */
+/* start footer */
 footer {
     margin-top: 10%;
     display: grid;
