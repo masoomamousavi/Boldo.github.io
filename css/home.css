@@ -403,7 +403,7 @@ div.statistic2 img {
 }
 
 /* end article second */
-/* start third article  */
+/* start templates article  */
 
 article.templates {
     background-color: var(--primary-color);
@@ -447,7 +447,29 @@ div.people {
 }
 
 
-div.people div.expert {
+div.people div.expert1 {
+    width: 350px;
+    background: #FFFFFF;
+    box-shadow: 0px 12px 32px rgba(0, 0, 0, 0.12);
+    border-radius: 12px;
+    margin-top: 60px;
+    height: 322px;
+    display: block;
+    margin-bottom: 20%;
+}
+
+div.people div.expert2 {
+    width: 350px;
+    background: #FFFFFF;
+    box-shadow: 0px 12px 32px rgba(0, 0, 0, 0.12);
+    border-radius: 12px;
+    margin-top: 60px;
+    display: block;
+    margin-bottom: 20%;
+    height: 394px;
+}
+
+div.people div.expert3 {
     width: 350px;
     background: #FFFFFF;
     box-shadow: 0px 12px 32px rgba(0, 0, 0, 0.12);
@@ -457,6 +479,7 @@ div.people div.expert {
     margin-bottom: 20%;
     max-height: 394px;
     min-height: 322px;
+    height: 358px;
 }
 
 
@@ -504,8 +527,8 @@ div.person-info span {
     line-height: 20px;
 }
 
-/* end third article */
-/* start fourth article */
+/* end templates article */
+/* start third-benefit article */
 article.third-benefit {
     margin-top: 10%;
 }
@@ -553,7 +576,7 @@ div.questions select option {
     color: #000000;
 }
 
-/* end fourth article */
+/* end third-benefir article */
 /* start blog-section section style*/
 
 div.blog-section {
